@@ -11,7 +11,10 @@ URL :
 http://localhost:3001/jobs
 http://localhost:3001/jobs/search?description=python&location=berlin
 http://localhost:3001/jobs/uuid
+
+sequelize db:seed
 METHOD : GET
 EMAIL : admin@ajisetiaji.com
+password : admin
 
 
