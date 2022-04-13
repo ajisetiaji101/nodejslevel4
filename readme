@@ -1,0 +1,17 @@
+DOKUMENTASI API NODE JS
+FOR LOGIN
+URL : http://localhost:3000/login
+METHOD : POST
+EMAIL : admin@ajisetiaji.com
+Password: admin
+FOR AUTH
+Adding header “token” this value get from successful to login and get “access token” and fill in the token.
+FOR JOBS
+URL : 
+http://localhost:3000/jobs
+http://localhost:3000/jobs/search?description=python&location=berlin
+http://localhost:3000/jobs/uuid
+METHOD : GET
+EMAIL : admin@ajisetiaji.com
+
+
